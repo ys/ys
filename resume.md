@@ -1,4 +1,6 @@
 # Yannick Schutz
+
+| Home | Email | Phone |
 |:---:|:----:|:----:|
 | Living in France | hello@yannickschutz.com | +33 6 44 69 88 71
 
