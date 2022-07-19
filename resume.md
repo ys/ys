@@ -21,11 +21,15 @@ Building teams • Production readiness • Software design • Product design �
 - Simplified the peering and VPN process for customers
 - Modernized the infrastructure from Ubuntu 14.04 to Ubuntu 20.04 without service interruption
 
+**Technologies:** Ruby, Golang, AWS, Kubernetes, Postgres, Redis
+
 ### Principal Engineer - Developer Experience team - Heroku/Salesforce *(2017 - 2020)*
 - Modernized and operated the developer experience tools
 - Migrated the GitHub integration to GitHub apps
 - Brought ChatOps from internal to public GA
 - Built the Audit trail tooling for enterprise users
+
+**Technologies:** Ruby, Postgres, Redis
 
 ### Senior & Lead - Internal Tools team - Heroku/Salesforce *(2014 - 2017)*
 - Built an internal deployment tool replacing Shell scripts
@@ -34,14 +38,20 @@ Building teams • Production readiness • Software design • Product design �
 - Built Heroku ChatOps for Hipchat and Slack
 - Built an internal services catalog and productionization tool
 
+**Technologies:** Ruby, Postgres, Redis
+
 ### Backend Engineer - Frontback *(2013 - 2014)*
 - Built and operated the Ruby on Rails API
 - Built tooling for monitoring and categorizing posted pictures
+
+**Technologies:** Ruby, Rails, Postgres, Redis
 
 ### Fullstack Engineer - Checkthis *(2012 - 2014)*
 - Ported the PHP codebase to Ruby on Rails
 - Operated and maintained the Ruby on Rails app
 - Built admin portal for the app
+
+**Technologies:** Ruby, MongoDB
 
 ## Education
 
