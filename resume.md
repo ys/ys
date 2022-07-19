@@ -21,7 +21,7 @@ Building teams • Production readiness • Software design • Product design �
 - Simplified the peering and VPN process for customers
 - Modernized the infrastructure from Ubuntu 14.04 to Ubuntu 20.04 without service interruption
 
-**Technologies:** Ruby, Golang, AWS, Kubernetes, Postgres, Redis
+**Technologies:** Ruby, Golang, AWS, Kubernetes, Postgres, Redis, Ansible, Packer
 
 ### Principal Engineer - Developer Experience team - Heroku/Salesforce *(2017 - 2020)*
 - Modernized and operated the developer experience tools
